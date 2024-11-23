@@ -8,5 +8,20 @@
 body{
     background: white;
     margin: 0px;
+    font-family: "Playfair Display", serif;
+    color:rgb(178, 235, 235);
+    margin-bottom: 100px;
+}
+header{
+     font-size: 35px;
+     color: antiquewhite;
+     border-bottom: 3px solid antiquewhite;
+     padding: 20px;
+}
+h1{
+    font-size: 40px;
+}
+.chamada-texto{
+    margin-right: 5%;
     
 }
